@@ -1,0 +1,11 @@
+{
+    "landbouwupdates": [
+        {
+            "id": 1,
+            "name": "Nieuw winkeltje",
+            "description": "Er is spannend nieuws! We hebben een nieuw winkeltje op de boerderij geopend. Kom langs voor verse groenten en fruit rechtstreeks van het land. Ontdek seizoensgebonden lekkernijen en ontmoet ons vriendelijke personeel. We verwelkomen je graag!",
+            "image": "assets/farm-store.jpg",
+            "alt": "Nieuw winkeltje op boerderij"
+        }
+    ]
+}
